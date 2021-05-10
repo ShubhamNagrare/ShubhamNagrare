@@ -1,4 +1,4 @@
-### Hii there 👋
+### Hi there 👋
 
 <!--
 **ShubhamNagrare/ShubhamNagrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
